@@ -2,9 +2,9 @@
 def display_board
   rowline = "  |   |   "
   divline = "-----------"
-  puts "#{rowline}"
-  puts "#{divline}"
-  puts "#{rowline}"
-  puts "#{divline}"
-  puts "#{rowline}"
+  prints "#{rowline}"
+  prints "#{divline}"
+  prints "#{rowline}"
+  prints "#{divline}"
+  prints "#{rowline}"
 end
