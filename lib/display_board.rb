@@ -4,4 +4,7 @@ def display_board
   divline = "-----------"
   puts "#{rowline}"
   puts "#{divline}"
+  puts "#{rowline}"
+  puts "#{divline}"
+  puts "#{rowline}"
 end
