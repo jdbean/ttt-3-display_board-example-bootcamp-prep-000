@@ -5,5 +5,5 @@ divline = "-----------"
 
 def display_board
   puts #{rowline}
-  puts #{diveline}
+  puts #{divline}
 end
